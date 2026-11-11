@@ -1,3 +1,4 @@
+'''
 print("Digite un numero")
 primer_numero = int(input())
 print("Digite el segundo numero")
@@ -5,7 +6,9 @@ segundo_numero = int(input())
 
 resultado = str(primer_numero + segundo_numero)
 
+
 print("El resultado de la suma es: " + resultado)
+'''
 
 print("¿Que operación deseas realizar?")
 print("1 Sumar")
